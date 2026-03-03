@@ -1,4 +1,4 @@
-# Hi, I'm George 👋
+Hi, I'm George 👋
 
 I'm a wannabe DevOps Engineer based in Melbourne.
 
